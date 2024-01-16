@@ -1,0 +1,22 @@
+{
+    "name": "sit725-2021-t2-prac",
+    "version": "1.0.0",
+    "description": "sit 725 T2 week 8 prac",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server_get.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/keysersoze12/sit725-2023-t1-prac8.git"
+    },
+    "author": "Adithya Krishnamurthy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/keysersoze12/sit725-2023-t1-prac8/issues"
+    },
+    "homepage": "https://github.com/keysersoze12/sit725-2023-t1-prac8#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
